@@ -1,0 +1,15 @@
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\bin\Debug\net8.0\Caracter.exe
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\bin\Debug\net8.0\Caracter.deps.json
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\bin\Debug\net8.0\Caracter.runtimeconfig.json
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\bin\Debug\net8.0\Caracter.dll
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\bin\Debug\net8.0\Caracter.pdb
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\obj\Debug\net8.0\Caracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\obj\Debug\net8.0\Caracter.AssemblyInfoInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\obj\Debug\net8.0\Caracter.AssemblyInfo.cs
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\obj\Debug\net8.0\Caracter.csproj.CoreCompileInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\obj\Debug\net8.0\Caracter.sourcelink.json
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\obj\Debug\net8.0\Caracter.dll
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\obj\Debug\net8.0\refint\Caracter.dll
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\obj\Debug\net8.0\Caracter.pdb
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\obj\Debug\net8.0\Caracter.genruntimeconfig.cache
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\Caracter\obj\Debug\net8.0\ref\Caracter.dll

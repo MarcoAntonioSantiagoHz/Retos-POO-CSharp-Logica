@@ -1,0 +1,15 @@
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\bin\Debug\net8.0\ContadorDePalabras.exe
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\bin\Debug\net8.0\ContadorDePalabras.deps.json
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\bin\Debug\net8.0\ContadorDePalabras.runtimeconfig.json
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\bin\Debug\net8.0\ContadorDePalabras.dll
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\bin\Debug\net8.0\ContadorDePalabras.pdb
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\obj\Debug\net8.0\ContadorDePalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\obj\Debug\net8.0\ContadorDePalabras.AssemblyInfoInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\obj\Debug\net8.0\ContadorDePalabras.AssemblyInfo.cs
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\obj\Debug\net8.0\ContadorDePalabras.csproj.CoreCompileInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\obj\Debug\net8.0\ContadorDePalabras.sourcelink.json
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\obj\Debug\net8.0\ContadorDePalabras.dll
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\obj\Debug\net8.0\refint\ContadorDePalabras.dll
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\obj\Debug\net8.0\ContadorDePalabras.pdb
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\obj\Debug\net8.0\ContadorDePalabras.genruntimeconfig.cache
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\ContadorDePalabras\obj\Debug\net8.0\ref\ContadorDePalabras.dll

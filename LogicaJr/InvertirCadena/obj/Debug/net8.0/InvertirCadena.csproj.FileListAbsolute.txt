@@ -1,0 +1,15 @@
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\bin\Debug\net8.0\InvertirCadena.exe
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\bin\Debug\net8.0\InvertirCadena.deps.json
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\bin\Debug\net8.0\InvertirCadena.runtimeconfig.json
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\bin\Debug\net8.0\InvertirCadena.dll
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\bin\Debug\net8.0\InvertirCadena.pdb
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\obj\Debug\net8.0\InvertirCadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\obj\Debug\net8.0\InvertirCadena.AssemblyInfoInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\obj\Debug\net8.0\InvertirCadena.AssemblyInfo.cs
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\obj\Debug\net8.0\InvertirCadena.csproj.CoreCompileInputs.cache
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\obj\Debug\net8.0\InvertirCadena.sourcelink.json
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\obj\Debug\net8.0\InvertirCadena.dll
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\obj\Debug\net8.0\refint\InvertirCadena.dll
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\obj\Debug\net8.0\InvertirCadena.pdb
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\obj\Debug\net8.0\InvertirCadena.genruntimeconfig.cache
+C:\Users\Marco Antonio\Documents\GitHub\Retos-POO-CSharp-Logica\LogicaJr\InvertirCadena\obj\Debug\net8.0\ref\InvertirCadena.dll
